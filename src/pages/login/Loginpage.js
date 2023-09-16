@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
-import './Homepage.css'
+import './Loginpage.css'
 
-const Homepage = () => {
+const Loginpage = () => {
 
   const [isRightPanelActive, setIsRightPanelActive] = useState(false);
 
@@ -64,5 +64,5 @@ const Homepage = () => {
   )
 }
 
-export default Homepage
+export default Loginpage
  
