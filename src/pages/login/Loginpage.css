@@ -5,8 +5,8 @@
   box-sizing: border-box;
 }
 
-body {
-  background: 'white';
+.body {
+  background-color: #5141ff;
   display: flex;
   justify-content: center;
   align-items: center;
